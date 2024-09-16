@@ -1,6 +1,6 @@
-# krishi
 
-Krishi
+
+# Satya Karthik Yanamandra CNN AI/ML
 
 ## Getting Started
 
