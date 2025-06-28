@@ -57,10 +57,14 @@ User Image Input → Image Preprocessing → CNN Model → Prediction → Recomm
 ---
 
 ## 🖼️ Screenshots
-![Home UI](images/home_ui.png)
-![Soil Prediction](images/soil_predict.png)
-![Disease Prediction](images/disease_predict.png)
-![Crop Recommendation](images/crop_recommend.png)
+![image](https://github.com/user-attachments/assets/5de0e8ae-2185-446e-8358-dda02db4dffd)
+![image](https://github.com/user-attachments/assets/7ee0a9a5-e579-4b97-a38c-d2838dc308c7)
+![image](https://github.com/user-attachments/assets/099aba2b-2a70-4d28-a753-4dcd212191e0)
+![image](https://github.com/user-attachments/assets/7af8cfa7-e957-40f2-95d9-192a8c31c447)
+![image](https://github.com/user-attachments/assets/7174a74d-c351-4895-9842-a628ddf72365)
+![image](https://github.com/user-attachments/assets/0360da7b-b730-45df-9422-6e1fbef24be5)
+
+
 
 ---
 
